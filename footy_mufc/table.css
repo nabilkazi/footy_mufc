@@ -1,0 +1,20 @@
+table,th{
+border: 1px solid #D4AF37;
+border-collapse : collapse;
+text-align:center;
+}
+
+td:hover{
+background-color : white;
+}
+
+th{
+color : #D4AF37;
+}
+
+.reg,td.reg{
+border: 1px solid white;
+border-collapse : collapse;
+text-align: left;
+border:0;
+}

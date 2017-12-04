@@ -1,0 +1,25 @@
+G -C +D# F G -C +D# F G -C 
++D# F G -C +D# F G -C 
+
+E F G -C E F G -C
+E F G -C E F G -C
+
+G -C D# F G -C D# F D 
+G Bb C D -G Bb C D -G 
+Bb C D -G 
+
+F -Bb +D# D F -Bb D# D C
+Ab Bb C -F Ab Bb C -F 
+Ab Bb C -F Ab
+
+G -C D# F G -C D# F D 
+G Bb C D -G Bb C D -G 
+Bb C D -G 
+
+F -Bb +D# D F -Bb D D# D -Bb C 
+-G Ab Bb C -G Ab Bb C -G 
+Ab Bb C -G Ab Bb C -G 
+
+C Bb C Bb A Ab -C
+A Ab A -D# Ab D D# D# -Ab +D# F -G Bb C
+G Ab Bb C G Ab Bb C G Ab Bb C 

@@ -1,0 +1,1 @@
+-Using javaScript, create a index(welcome) page, like bulb on off.

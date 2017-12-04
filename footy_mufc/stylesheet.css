@@ -1,0 +1,95 @@
+﻿body {
+/*background : url('C:\Users\nabilkazi\Documents\Web development learning\footy_mufc\ornaments_texture1119.jpg') repeat center fixed;
+background-size : 100% 100%;
+background-color : #FF0000;*/
+background :radial-gradient(circle,black 5%, red);
+color : white;
+text-shadow : 2px 2px black;
+}
+
+pre{
+font-family : Pristina; 
+font-size: 2.5em; 
+text-align: center;
+}
+
+.error{
+border : 2px #D4AF37 solid;
+padding  : 20px;
+margin : 10px;
+text-align:center;
+outline : 5px groove #D4AF37;
+font-size : 1em;
+}
+
+.error::first-letter{
+font-size : 200%;
+}
+
+a{
+text-decoration:none;
+text-shadow : none;
+font-variant : small-caps;
+color: yellow;
+}
+
+.link:hover{
+text-decoration: underline;
+}
+
+h1{
+ text-align: center;
+ font-family : 'Yeseva One';
+font-size : 300%;
+text-shadow : 0 0 5px black;
+
+}
+
+.bquote{
+font-family: Monotype Corsiva;
+font-size: 120%
+}
+* {
+    box-sizing: border-box;
+} 
+video{
+border : solid 2px #D4AF37;
+margin : auto;
+width : 100%;
+height : auto;
+}
+
+
+fieldset{
+border : 2px solid #D4AF37;
+text-align : center;
+text-transform : uppercase; 
+}
+
+address{
+text-align : center;
+}
+
+ol li{
+list-style : square inside url('C:\Users\nabilkazi\Documents\Web development learning\footy_mufc\download.png');
+}
+input:focus{background-color: grey;}
+
+::selection{
+color : green;
+background : blue;
+}
+
+/*img{
+opacity : 0.5;
+filter.alpha('50%');
+}*/
+
+img:hover{
+opacity : 1;
+}
+ iframe{
+	 height : 800px;
+	 width: 100%;
+	 border : 0;
+ }
